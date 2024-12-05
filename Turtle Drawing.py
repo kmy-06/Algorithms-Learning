@@ -1,4 +1,5 @@
 import turtle
+# Also we can create 2 turtle: E.g Pokey = turtle.Turtle()
 slowpoke = turtle.Turtle()
 slowpoke.shape('turtle')
 
