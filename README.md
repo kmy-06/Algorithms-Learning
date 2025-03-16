@@ -1,4 +1,4 @@
-DON'T THINK 
+$$\text{DON'T THINK}$$
 
 <br>
 <br>
@@ -32,5 +32,6 @@ DON'T THINK
 <br>
 <br>
 <br>
+<br>
 
-<h6>*Reverse Psychology</h6> 
+<h6 align="center" >*Reverse Psychology</h6> 
