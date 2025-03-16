@@ -4,7 +4,6 @@ $$\text{DON'T THINK}$$
 
 <br>
 <br>
-<br>
 
 $$\text{.}$$
 
@@ -18,9 +17,6 @@ $$\text{.}$$
 
 $$\text{.}$$
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
