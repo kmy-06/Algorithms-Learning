@@ -7,6 +7,9 @@ $$\text{DON'T THINK}$$
 <br>
 <br>
 <br>
+
+$$\text{.}$$
+
 <br>
 <br> 
 
@@ -19,9 +22,6 @@ $$\text{.}$$
 
 <br>
 <br>
-
-$$\text{.}$$
-
 <br>
 <br>
 <br>
