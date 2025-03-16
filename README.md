@@ -1,1 +1,3 @@
-DON'T THINK (Reverse Psychology)
+DON'T THINK 
+
+<h6>*Reverse Psychology</h6> 
