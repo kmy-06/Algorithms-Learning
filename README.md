@@ -1,3 +1,1 @@
-# Algorithms-Learning
-
-> 
+DON'T THINK
