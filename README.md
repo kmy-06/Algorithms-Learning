@@ -1,1 +1,1 @@
-DON'T THINK
+DON'T THINK (Reverse Psychology)
